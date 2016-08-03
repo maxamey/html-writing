@@ -1,4 +1,4 @@
-The Importance of HTML Semantics and Validation
+##The Importance of HTML Semantics and Validation
 
 Semantics has always been a word about the meaning of language and HTML application of the word parallels that meaning. Naturally this means that the elements I create in an HTML document should  have inherent meaning corresponding to the tags I choose. If there are more ways than one to accomplish something in HTML, then what makes me choose a certain tag? The utility of the content should indicate the best tag to use.
 The dilemma appears when CSS is added and styles over the HTML. It would seem to render useless the effort put forth in making your HTML document make semantic sense. There are reasons, though, why the best practice is to keep HTML semantically kosher.
@@ -11,4 +11,4 @@ https://shapeshed.com/the-importance-of-semantic-markup/
 
 This was a good article on the subject and also mentions that other "user agents" will be more likely to understand HTML if the mark up is semantic. This will enhance the document's ability to be read not only by browsers across platforms, but in the future as well.
 
-As with any language or discipline that has syntax and formatting rules, there are best ways to practice using HTML. In past lives, I've experienced a similar phenomenon when writing music! 
+As with any language or discipline that has syntax and formatting rules, there are best ways to practice using HTML. In past lives, I've experienced a similar phenomenon when writing music!
