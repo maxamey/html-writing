@@ -11,4 +11,6 @@ https://shapeshed.com/the-importance-of-semantic-markup/
 
 This was a good article on the subject and also mentions that other "user agents" will be more likely to understand HTML if the mark up is semantic. This will enhance the document's ability to be read not only by browsers across platforms, but in the future as well.
 
+Much like semantics, validating HTML provides additional benefits that might not be immediately apparent. Other than the obvious benefit of checking for errors and being able to fix the ones that are vital for allowing a browser to make everything work, validation can enforce standards that make a website appear professional to other developers, make collaborations smoother, and also make maintaining easier.
+
 As with any language or discipline that has syntax and formatting rules, there are best ways to practice using HTML. In past lives, I've experienced a similar phenomenon when writing music!
